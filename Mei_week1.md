@@ -19,3 +19,10 @@
 
 ###### 03/05/2017
 * (cont.) Mempelajari dan mengimplementasikan Supervised learning algorithm untuk mengklasifikasi sensitive articles.
+
+###### 04/05/2017
+* (cont.) Mempelajari dan mengimplementasikan Supervised learning algorithm untuk mengklasifikasi sensitive articles.
+
+###### 05/05/2017
+* (cont.) Mempelajari dan mengimplementasikan Supervised learning algorithm untuk mengklasifikasi sensitive articles.
+
