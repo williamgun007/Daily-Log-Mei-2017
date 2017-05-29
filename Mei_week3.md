@@ -5,6 +5,14 @@
 * Membaca buku "The effective engineer"
 * Membaca dokumentasi scikit-image untuk image processing
 
+###### 16/05/2017
+* (continue)Mengerjakan proyek, menerapkan algoritma machine learning untuk klasifikasi data
+
+###### 18/05/2017
+* (continue) Mengerjakan proyek, menerapkan algoritma machine learning untuk klasifikasi data
+
+###### 19/05/2017
+* (continue) Mengerjakan proyek, menerapkan algoritma machine learning untuk klasifikasi data
 
 #### VG
 ---
