@@ -9,6 +9,10 @@
 ###### 24/05/2017
 * (Cont.) Melakukan berbagai cara untuk meningkatkan classification accuracy dari sensitive classifier
 
+###### 26/05/2017
+* (Cont.) Melakukan berbagai cara untuk meningkatkan classification accuracy dari sensitive classifier
+* Memahami method-method Scoring Algorithm untuk artikel
+
 
 #### WG
 ---
