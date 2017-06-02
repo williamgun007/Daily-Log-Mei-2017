@@ -12,7 +12,7 @@
 
 ###### 30/05/2017
 * (Cont.) Memahami method-method Scoring Algorithm untuk artikel
-* Mencoba berbagai ingredients yang dapat ditambahkan ke Scoring Algorithm (e.g. Facebook API, Twitter API)
+* Mencoba berbagai ingredients yang dapat ditambahkan ke Scoring Algorithm
 
 ###### 31/05/2017
 * Briefing mengenai project Scoring untuk New User dan pengenalan Offline Testing
