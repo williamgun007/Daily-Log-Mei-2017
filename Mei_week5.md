@@ -4,6 +4,12 @@
 * Mempresentasikan algoritma dan alur dalam menentukan scoring
 * (continue) Membaca dan memahami algoritma scoring
 
+###### 30/05/2017
+* (continue) Membaca dan memahami algoritma scoring
+
+###### 31/05/2017
+* (continue) Membaca dan memahami algoritma scoring
+* Pengenalan offline testing
 
 #### VG
 ---
